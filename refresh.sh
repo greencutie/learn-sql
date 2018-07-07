@@ -1,4 +1,4 @@
 #!/bin/bash
-vendor/bin/phinx rollback -e testing
-vendor/bin/phinx migrate -e testing
-vendor/bin/phinx seed:run -e testing
+vendor/bin/phinx rollback -c $1 -t 0
+vendor/bin/phinx migrate -c $1
+vendor/bin/phinx seed:run -c $1
