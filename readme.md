@@ -21,8 +21,8 @@ vendor/bin/phinx seed:create EmpSeeder
 
 ## Books
 
-### Learning SQL. Alan Beaulieu. 2007
+### 1. Learning SQL. Alan Beaulieu. 2007
 Example database with data: **db/sql/learning-sql.sql**.  
 
-### SQL Cookbook. Anthony Molinaro. 2009
+### 2. SQL Cookbook. Anthony Molinaro. 2009
 Example tables and data: migrations and seeders in **db/migrations** and **db/seeds**.  
