@@ -1,8 +1,9 @@
 ## Setup
 
 1. `git clone https://github.com/mutan/learn-sql`
-2. `composer install`
-3. Go on with current book instructions
+2. `cd learn-sql`
+3. `composer install`
+4. Go on with current book instructions
 
 ## Books
 
