@@ -1,10 +1,10 @@
 ## Data loading
 
 ### How to load data from .sql file to database
-
+```
 use database_name;  
 source c:\tmp\sql_file.sql;  
-
+```
 ### Phynx
 
 #### Bash command to rollback, migrate, seed all migrations respectively
