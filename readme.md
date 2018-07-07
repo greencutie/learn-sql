@@ -1,3 +1,9 @@
+## Setup
+
+```
+composer install
+```
+
 ## Data loading
 
 ### How to load data from .sql file to database
