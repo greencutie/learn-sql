@@ -9,7 +9,7 @@
 
 ### 1. Learning SQL. Alan Beaulieu. 2007
 1. Check database settings in `phinx-beaulieu.yml`
-2. Check database name in migration file
+2. Check DATABASE_NAME in migration file
 3. `bash refresh.sh phinx-beaulieu.yml` 
 
 To rollback:  
