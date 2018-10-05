@@ -5,6 +5,8 @@
 3. `composer install`
 4. Go on with current book instructions
 
+Phinx docs: [Github](https://github.com/cakephp/phinx) | [phinx.org](http://docs.phinx.org/en/latest)
+
 ## Books
 
 ### 1. Learning SQL. Alan Beaulieu. 2007
