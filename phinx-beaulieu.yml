@@ -9,7 +9,7 @@ environments:
     development:
         adapter: mysql
         host: localhost
-        name: test
+        name: beaulieu
         user: root
         pass: ''
         port: 3306
