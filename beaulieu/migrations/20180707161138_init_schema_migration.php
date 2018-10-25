@@ -4,7 +4,7 @@ use Phinx\Migration\AbstractMigration;
 
 class InitSchemaMigration extends AbstractMigration
 {
-    const DATABASE_NAME = 'test';
+    const DATABASE_NAME = 'beaulieu';
 
     public function up()
     {
