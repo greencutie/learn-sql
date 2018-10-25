@@ -10,16 +10,15 @@ Phinx docs: [Github](https://github.com/cakephp/phinx) | [phinx.org](http://docs
 ## Books
 
 ### 1. Learning SQL. Alan Beaulieu. 2007
-1. Check database settings in `phinx-beaulieu.yml`
-2. Check DATABASE_NAME in migration file
-3. `bash refresh.sh phinx-beaulieu.yml` 
+1. Create database `beaulieu` (or whatever, but then change it in `phinx-beaulieu.yml` and in migration file in `beaulieu/migrations/`
+2. `bash refresh.sh phinx-beaulieu.yml` 
 
 To rollback:  
 
 `vendor/bin/phinx rollback -c phinx-beaulieu.yml -t 0`
 
 ### 2. SQL Cookbook. Anthony Molinaro. 2009
-1. Check database settings in `phinx-molinaro.yml`
+1. Create database `molinaro` (or whatever, but then change it in `phinx-molinaro.yml`)
 2. `bash refresh.sh phinx-molinaro.yml` 
 
 To rollback:  
