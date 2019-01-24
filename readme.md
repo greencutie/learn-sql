@@ -5,7 +5,9 @@
 3. `composer install`
 4. Go on with current book instructions
 
-Phinx docs: [Github](https://github.com/cakephp/phinx) | [phinx.org](http://docs.phinx.org/en/latest)
+## Documentation
+
+Phinx: [Github](https://github.com/cakephp/phinx) | [phinx.org](http://docs.phinx.org/en/latest)
 
 ## Books
 

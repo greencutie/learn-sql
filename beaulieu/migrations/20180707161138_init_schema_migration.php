@@ -14,7 +14,7 @@ class InitSchemaMigration extends AbstractMigration
 
     public function down()
     {
-        /* Получаем список всех таблиц из БД*/
+        /* Получаем список всех таблиц из БД */
         $sql = "
             SELECT GROUP_CONCAT(TABLE_NAME SEPARATOR ', ')
             FROM INFORMATION_SCHEMA.TABLES
