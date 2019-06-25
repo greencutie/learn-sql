@@ -26,3 +26,8 @@ To rollback:
 To rollback:  
 
 `vendor/bin/phinx rollback -c phinx-molinaro.yml -t 0`
+
+## XAMPP MySQL command line}
+
+1. `cd c:\xampp\mysql\bin`
+2. `mysql.exe -u root --password`
