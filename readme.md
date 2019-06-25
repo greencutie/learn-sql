@@ -30,4 +30,4 @@ To rollback:
 ## XAMPP MySQL command line
 
 `cd c:\xampp\mysql\bin`  
-`mysql.exe -u root --password`
+`./mysql.exe -u root --password`
